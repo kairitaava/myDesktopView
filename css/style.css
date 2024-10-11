@@ -57,7 +57,7 @@ body {
     display: block;
     width: 359px;
     height: 90px;
-    background-color: rgb(235, 172, 78);
+    background-color: rgb(235, 157, 78);
     clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 25% 100%, 0% 50%);
     gap: 20px;
 
